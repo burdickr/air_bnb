@@ -2,7 +2,7 @@
 
 
 ### Team Members:
-Quynh Tran, Ryan Burdick, Jesse Dymond & Upendra Addepalle
+Ryan Burdick, Jesse Dymond, Quynh Tran, & Upendra Addepalle
 
 ### Project Description:
 We will be analyzing AirBnB data to find trends in Austin
